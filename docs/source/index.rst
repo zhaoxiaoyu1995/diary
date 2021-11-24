@@ -9,7 +9,11 @@ Welcome to simplelayout-zhaoxiaoyu1995's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   modules.rst
+   simplelayout.cli.rst
+   simplelayout.generator.rst
+   simplelayout.rst
 
 
 Indices and tables
